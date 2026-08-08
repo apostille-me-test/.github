@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: apostille-me-test Linear project
+    url: https://linear.app/denman/project/githubcomapostille-me-test-6b89ed4af38d
+    about: Roadmap, cross-repository planning, and internal delivery tracking.
+  - name: Security policy
+    url: https://github.com/apostille-me-test/.github/security/policy
+    about: Report vulnerabilities privately; never file public security issues.
